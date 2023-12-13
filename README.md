@@ -25,3 +25,28 @@ https://github.com/Cirvianum-DAW/act7-starwars-api-2apart-dom-DawErnestVila.git
 ### Checkpoint 2, UF4, ASYNC
 - Examen: https://github.com/Cirvianum-DAW/mp6-checkpoint2-DawErnestVila.git
 - Bonus (ChatGPT): https://github.com/DawErnestVila/checkpoint2Chat.git
+
+## LINKS
+
+### Promise
+https://es.javascript.info/promise-basics
+
+### Promise.all()
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
+
+### Async Function
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+
+### event.target
+https://developer.mozilla.org/es/docs/Web/API/Event/target
+https://www.w3schools.com/jsref/event_target.asp
+
+### Object.key, values, entries
+https://es.javascript.info/keys-values-entries
+
+### addEventListener()
+https://lenguajejs.com/javascript/eventos/addeventlistener/
+https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+
+### .value
+https://www.w3schools.com/jsref/prop_text_value.asp
