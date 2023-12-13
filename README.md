@@ -26,8 +26,6 @@ https://github.com/Cirvianum-DAW/act7-starwars-api-2apart-dom-DawErnestVila.git
 - Examen: https://github.com/Cirvianum-DAW/mp6-checkpoint2-DawErnestVila.git
 - Bonus (ChatGPT): https://github.com/DawErnestVila/checkpoint2Chat.git
 
-...
-
 ## LINKS
 
 ### Promise
