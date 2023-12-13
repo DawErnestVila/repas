@@ -23,4 +23,5 @@ https://github.com/Cirvianum-DAW/act7-starwars-api-2apart-dom-DawErnestVila.git
 - Meu: https://github.com/Cirvianum-DAW/act5-callbacks-promises-async-await-DawErnestVila.git
 
 ### Checkpoint 2, UF4, ASYNC
-https://github.com/Cirvianum-DAW/mp6-checkpoint2-DawErnestVila.git
+- Examen: https://github.com/Cirvianum-DAW/mp6-checkpoint2-DawErnestVila.git
+- Bonus (ChatGPT): https://github.com/DawErnestVila/checkpoint2Chat.git
