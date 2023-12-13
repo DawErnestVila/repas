@@ -19,7 +19,7 @@ https://github.com/Cirvianum-DAW/act7-starwars-api-2apart-dom-DawErnestVila.git
 - Meu: https://github.com/Cirvianum-DAW/act6-starwars-api-1apart-fetch-DawErnestVila.git
 
 ### Activitat 5 Callbacks Promeses i Async, ASYNC
-- Solucio: https://github.com/prosfp/MP6_Act5_Callbacks_Promises_AsyncAwait.git
+- Solucio: https://github.com/prosfp/MP6_Act5_Callbacks_Promises_AsyncAwait/tree/solucio
 - Meu: https://github.com/Cirvianum-DAW/act5-callbacks-promises-async-await-DawErnestVila.git
 
 ### Checkpoint 2, UF4, ASYNC
@@ -50,3 +50,7 @@ https://www.w3schools.com/js/js_htmldom_eventlistener.asp
 
 ### .value
 https://www.w3schools.com/jsref/prop_text_value.asp
+
+### .classList.add, .toggle, .remove
+https://www.w3schools.com/jsref/prop_element_classlist.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
